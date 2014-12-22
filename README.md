@@ -35,9 +35,21 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Two elegies, on the late death of our soueraigne Queene Anne With epitaphes. Written by Patrick Hann
+
+1. To the moſt Noble Prince Charles.
+
 #####Body#####
-Two elegies, on the late death of our soueraigne Queene Anne With epitaphes. Written by Patrick Hann
+
+1. The firſt Elegie.
+
+1. On the Queene.
+
+1. The ſecond Elegie.
+
+1. An Epitaph.
+
+1. An Epitaph.
+
 **Types of content**
 
   * There are 524 **verse** lines!
